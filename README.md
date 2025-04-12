@@ -59,7 +59,7 @@ Ejemplo: GET http://localhost:8080/filtered-games?platform=pc
 
 ## 🧪 Ejemplo de respuesta JSON
 
-``´json
+      ```     json
       [
       {
         "id": 540,
@@ -70,7 +70,7 @@ Ejemplo: GET http://localhost:8080/filtered-games?platform=pc
         "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg"
       },
       
-    ]  
+          ]  
 
 ⚙️ Cómo ejecutar el microservicio
 
